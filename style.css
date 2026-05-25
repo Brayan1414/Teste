@@ -1,5 +1,16 @@
 body{
-background-color: #6a90d6 ;
+background-color: #bbd1fa ;
 
 
+}
+
+
+.capa{
+    color: #bbd1fa ;
+    font-size: 20px;
+}
+
+#Jogador{
+    display: flex;
+    padding-left: 200px;
 }
